@@ -3,7 +3,8 @@ header {
 }
 
 h1 {
+  margin: 0;
   font-size: xx-large;
   font-weight: bold;
-  margin: 40px;
+  padding: 40px;
 }
