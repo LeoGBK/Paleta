@@ -11,5 +11,7 @@ h1 {
 }
 
 hr {
-    background-color: blue;
+    border: none;
+    height: 20px;
+    margin: 0;
 }
