@@ -11,12 +11,16 @@ h1 {
 }
 
 hr {
-    border: none;
-    height: 20px;
-    margin: 0;
+  border: none;
+  height: 20px;
+  margin: 0;
 }
 
 section {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.largo {
+  grid-column: span 3;
 }
