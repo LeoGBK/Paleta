@@ -21,7 +21,6 @@ section {
   grid-template-columns: repeat(12, 1fr);
 }
 
-.largo {
+.last {
   grid-column: span 3;
 }
-
