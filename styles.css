@@ -19,6 +19,12 @@ hr {
 section {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+
+  div {
+    color: gray;
+    height: 50px;
+    text-align: center;
+  }
 }
 
 .last {
