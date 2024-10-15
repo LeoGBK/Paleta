@@ -18,7 +18,7 @@ h1 {
 
 hr {
   border: none;
-  height: 20px;
+  height: 25px;
   margin: 0;
 }
 
@@ -30,7 +30,7 @@ section {
     color: transparent;
     font-size: 1.5rem;
     font-weight: 600;
-    height: 50px;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
