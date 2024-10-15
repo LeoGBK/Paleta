@@ -25,13 +25,17 @@ section {
   grid-template-columns: repeat(12, 1fr);
 
   div {
-    color: #000000;
+    color: transparent;
     font-size: 1.5rem;
     font-weight: 600;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  div:hover{
+    color: #000000;
   }
 }
 
